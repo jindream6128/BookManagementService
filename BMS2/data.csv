@@ -1,0 +1,4 @@
+StudentName,StudentNumber,Grade,StudentID,StudentPW,PhoneNumber,Email,Address
+test,test,test,test,test,test,test,test
+Administrator,00000,3,root,root,0000,xx@xx.xx,adminisrtator
+Kimjingeun,201712226,4,admin,admin,01033876128,jindream6128@naver.com,testID
